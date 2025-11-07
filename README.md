@@ -1,6 +1,6 @@
-# Website for Cloud Native Databases DevRoom at FOSDEM
+# Website for Translations Devroom at FOSDEM'26
 
-Website: [https://fosdem-cloud-native-databases-devroom.github.io/](https://fosdem-cloud-native-databases-devroom.github.io/)
+Website: <link>
 
 Your suggestions for improvements are welcome, create Issues on Github.
 
@@ -8,12 +8,9 @@ Your suggestions for improvements are welcome, create Issues on Github.
 
 ## Announcement
 
-We’re excited to announce the return of Databases devroom for [FOSDEM 2026](https://fosdem.org/2026/). The purpose of this devroom is to discuss developing databases that can meet the demands of modern applications.
+Come and share your experience with the localization process. It can be related to FOSS, open hardware, manuals, etc. Talk about what you find important; it can be your approach on used tools, community dynamic, workflows, benefits.
 
-Instead of focusing on a single technology or community, our goal is to
-bring open source database communities and developers together to share
-their experience, learn from their work, and foster collaboration on
-challenges ahead.
+Talks describing collaborative efforts are the most welcome. Having a stack of good, well-integrated tools is just one part of the process. Don’t stop there. How do you motivate and care about your project’s community? What did you learn when you introduced changes, improvements, and pursued milestones? What inspired you to translate and improve the localization process and outcome for all developers, users, and translators?
 
 ## Where
 
