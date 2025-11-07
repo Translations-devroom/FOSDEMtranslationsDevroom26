@@ -58,7 +58,7 @@ Go to the FOSDEM 2026 Pretalx website, choose *Talk* and select *Translations* i
 
 ![Pretalx website - Databases - Submit](images/submit-2026.png)
 
-[I wont postpone it, I'll do it now!](https://pretalx.fosdem.org/fosdem-2026/cfp)
+**[I wont postpone it, I'll do it now!](https://pretalx.fosdem.org/fosdem-2026/cfp)**
 
 ## Contacts
 
