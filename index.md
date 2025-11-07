@@ -60,7 +60,7 @@ Go to the FOSDEM 2026 Pretalx website, pick out a fitting name, select the **ses
 
 ![Pretalx website - Databases - Submit](images/submit-2026.png)
 
-**[I wont postpone it, I'll do it now!](https://pretalx.fosdem.org/fosdem-2026/cfp)**
+**[I won't postpone it, I'll do it now!](https://pretalx.fosdem.org/fosdem-2026/cfp)**
 --
 
 ## Contacts
