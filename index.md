@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**[Schedule]([https://fosdem.org/2026/](https://fosdem.org/2026/schedule/track/translations/))**
+
 **This devroom aims to showcase successful approaches in libre localization, community achievements, innovative workflows, tools, and integrations.**
 
 **Come and share your experience with the localization process. Inspire others or propose solutions to struggles you spotted. It can be related to FOSS, open hardware, manuals, etc. 
@@ -15,13 +17,13 @@ Talks describing collaborative efforts are the most welcome. Having a stack of g
 
 ## Where
 
-[FOSDEM 2026](https://fosdem.org/2026/) will be hosted in person at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2026/practical/transportation/).
+**room k3401** of [FOSDEM 2026](https://fosdem.org/2026/) (see the map in Location at the bottom) at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2026/practical/transportation/). It's the modern building with the main infodesk. Consider a libre [mobile app](https://fosdem.org/2026/schedule/mobile/) with a map and schedule in it.
 
 ## When
 
 *   **CfP** submission **deadline: 5th December 2025**, 23:55 CET
-*   Selected talks and schedule announced: 15 December 2025
-*   We meet in the devroom: most probably **Saturday afternoon, 31st January 2026**. Tiny chance it gets reorganized to Sunday.
+*   Schedule is in the process, only some speakers confirmations remain
+*   We meet in the devroom: **Sunday, 1st February 2026; 13:15-17:00 CET**.
 
 ## Welcomed topics: 
 
