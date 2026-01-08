@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**[Schedule]([https://fosdem.org/2026/](https://fosdem.org/2026/schedule/track/translations/)**
+**[Schedule](https://fosdem.org/2026/schedule/track/translations/)**
 
 **This devroom aims to showcase successful approaches in libre localization, community achievements, innovative workflows, tools, and integrations.**
 
