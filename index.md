@@ -17,7 +17,7 @@ Talks describing collaborative efforts are the most welcome. Having a stack of g
 
 ## Where
 
-**Room k3401** of [FOSDEM 2026](https://fosdem.org/2026/) (see the map in Location at the bottom) at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2026/practical/transportation/). It's the modern building with the main infodesk. Consider a libre [mobile app](https://fosdem.org/2026/schedule/mobile/) with a map and schedule in it.
+**Room k3401** of [FOSDEM 2026](https://fosdem.org/2026/) (see the map in *Location* at the bottom) at [ULB Solbosch Campus, Brussels, Belgium](https://fosdem.org/2026/practical/transportation/). It's the modern building with the main infodesk. Consider a libre [mobile app](https://fosdem.org/2026/schedule/mobile/) with a map and schedule in it.
 
 ## When
 
